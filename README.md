@@ -8,8 +8,10 @@ This personal project was to create a portable local and offline LLM that can be
 * From the images, I also showed the wifi is turned off to prove the LLM functions in an offline enviroment.
 * No coding on my part was done to accomplish this other than running a few command line commands to remove restrictions on the steam deck, and directory changes for where models should be stored for LM Studio
   
-* Video Demo is in the zipped file.
+* Video Demo of testing is in the zipped file.
 [Video Demo.zip](https://github.com/user-attachments/files/25610423/Video.Demo.zip)
+
+* To get started, all you need is to download LM Studio installer for the your specified/preferred OS to your portable drive and the rest is straightforward.
 
 ***PC Testing via flash drive***
 
